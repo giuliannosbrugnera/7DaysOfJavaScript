@@ -1,0 +1,2 @@
+// map() documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+var my_function = (some_array) => some_array.map( (element) => element % 2 !== 0 ? --element : ++element );
