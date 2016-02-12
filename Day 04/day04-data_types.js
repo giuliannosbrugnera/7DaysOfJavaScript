@@ -1,0 +1,1 @@
+var my_num = 2, my_bool = true, my_str = "mercador";
